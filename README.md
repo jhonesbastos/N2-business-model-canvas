@@ -1,9 +1,9 @@
-# N2-business-model-canvas
-Business Model Canvas para avaliação N2 da aula de P.M.I
+# N3 - PMI
+Apresentação do SistemaBastô para avaliação N3 da matéria de P.M.I
 
 Grupo: João Pedro Bastos e Rafael Gonçalves
 
-Link para visualização do projeto no figma [aqui](https://www.figma.com/board/mFxbCvp9BaMAdqfy8laAvs/N2---20%2F05%2F2024?node-id=305%3A20&t=PjaLX0qIrqQs7pmx-1)
+Link para visualização do Business Model no figma [aqui](https://www.figma.com/board/mFxbCvp9BaMAdqfy8laAvs/N2---20%2F05%2F2024?node-id=305%3A20&t=PjaLX0qIrqQs7pmx-1)
 
 ## Proposta de Valor
 Oferecemos um sistema de alta tecnologia e personalizado com as necessidades de cada usuário, que elimina informações desnecessárias e foca nas necessidades reais dos proprietários de lojas, tornando o processo de vendas mais eficiente e simplificado, tanto online quanto fisicamente.
